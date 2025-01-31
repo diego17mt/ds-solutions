@@ -46,7 +46,7 @@ const Header = () => {
     >
       <span>
         <img
-          src="../public/images/ds-logo.png"
+          src="/images/ds-logo.png"
           className="max-w-20 md:w-25 z-[999]"
         ></img>
       </span>
