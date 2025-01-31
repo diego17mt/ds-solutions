@@ -1,5 +1,3 @@
 {
-    "buildCommand": "chmod -R +x node_modules/.bin && npm run build",
-    "installCommand": "yarn install"
-  }
-  
+  "installCommand": "yarn install"
+}
