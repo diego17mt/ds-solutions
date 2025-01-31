@@ -4,6 +4,11 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  build: {
+    rollupOptions: {
+      external: ['PropTypes'], // Agrega aquí los módulos externos
+    },
+  },
   plugins: [
     react(),
     tailwindcss(),
