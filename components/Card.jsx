@@ -4,7 +4,7 @@ import { IoMdNotificationsOutline } from "react-icons/io";
 import { GoShieldCheck } from "react-icons/go";
 import { FiSmartphone } from "react-icons/fi";
 
-import PropTypes from "PropTypes";
+import PropTypes from "prop-types";
 
 const Card = ({ nombreIcono, titleCard, text }) => {
   const iconos = {
