@@ -31,7 +31,7 @@ const Hero = () => {
         </div>
         <img
           className="w-1/3 rounded-md hidden md:block"
-          src="../src/assets/hero-image.png"
+          src="../public/images/hero-image.png"
           alt="Técnico instalador de cámaras de seguridad"
         ></img>
       </section>
