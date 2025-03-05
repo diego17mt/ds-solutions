@@ -14,7 +14,7 @@ const Hero = () => {
           </p>
           <div className="flex flex-col md:flex-row gap-4 mt-4">
             <Button
-              onClick={() => window.open("https://wa.me/573135309486", "_blank")}
+              onClick={() => window.open("https://wa.me/573103054150", "_blank")}
               text="Contáctanos"
               color="#18181b"
               textColor="white"

@@ -44,7 +44,7 @@ const Contact = () => {
         <h4 className="text-xl font-bold mt-8">O llámenos:</h4>
         <p className="flex flex-row justify-center items-center gap-2 mt-4 text-3xl">
           <BsTelephone color="2563eb" size="20" />
-          313 530 9486
+          310 305 4150
         </p>
         <p className="flex flex-row justify-center items-center gap-2 mt-4 text-3xl">
           <BsTelephone color="2563eb" size="20" />
